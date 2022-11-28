@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
- 📲 Developing iOS apps is my specialty<br>  📚 Currently studying Computer Science and digital Communication at University of Bari " Aldo Moro"<br>  🤝 Open to collaborate  working as mobile Developer <br> 
+ 📲 Developing iOS apps is my specialty<br>  📚 Currently studying Computer Science and digital Communication at University of Bari " Aldo Moro"<br>  🤝 Open to collaborate  💻working as mobile Developer <br> 
 
 
 ## 🌐 Socials:
